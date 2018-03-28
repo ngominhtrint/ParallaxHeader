@@ -1,6 +1,10 @@
 # ParallaxHeader
 A sample iOS implementation [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) with header view
 
+## Notes
+References to [this article](https://sexyswift.wordpress.com/2016/08/25/swift-parallax-scrolling-with-header-sticking-at-top-nested-uiscrollview/)
+or you can checkout [here](https://github.com/bibekdari/DParallexScrolling/blob/master/Parallex%20Scrolling/ViewController.swift)
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
